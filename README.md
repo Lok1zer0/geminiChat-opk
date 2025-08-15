@@ -3,6 +3,7 @@ Auto chat by IA for Openkore Ragnarok Online
 
 # requirements
 1 - install strawberry perl 5.40 or superior
+
 1.1 - run "cpan LWP::UserAgent JSON HTTP::Request::Common" on CMD and wait finish
 
 2 - move geminiChat folder with geminiChat.pl to your openkore plugin folder
