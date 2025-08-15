@@ -25,4 +25,4 @@ automacro loadGeminiChat {
 # features
 Respond to public and private messages in a casual and Brazilian way
 
-BONUS: when approached by GMs switches to "ai manual" and follows him for 2 minutes just answering whatever he asks
+BONUS: when approached by GMs switches to "ai manual" and follows him just answering whatever he asks
