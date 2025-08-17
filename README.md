@@ -1,5 +1,5 @@
 # geminiChat-opk
-Auto chat by IA for Openkore Ragnarok Online
+Auto chat IA for Openkore Ragnarok Online
 
 # requirements
 1 - install strawberry perl 5.40 or superior
