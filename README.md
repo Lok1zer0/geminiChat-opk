@@ -19,7 +19,16 @@ automacro loadGeminiChat {
 
 4 - get a API key on https://aistudio.google.com/app/apikey
 
-5 - insert your Gemini API key on line 59 and have fun
+5 - insert this on your config.txt:
+gemini_enabled 1
+gemini_api_key YOUR_GEMINI_API_KEY
+gemini_delay 5
+gemini_max_length 100
+gemini_model gemini-1.5-flash
+gemini_probability 100
+gemini_ignore_players
+
+6 - insert your Gemini API key on config.txt and line 59(geminiChat.pl)
 
 
 # features
